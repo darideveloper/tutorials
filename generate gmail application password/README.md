@@ -17,13 +17,12 @@ This is a support document for darideveloper projects, which require to send ema
 
 ![2.2](screenshots/2.2.PNG)
 
-3. Go to "Security"
+3. Search and select '2-Step Verification'
 
-![3](screenshots/3.PNG)
+![4](screenshots/4.PNG)
 
 4. Activate the 2-Step Verification
 
-![4](screenshots/4.PNG)
 ![4.1](screenshots/4.1.PNG)
 ![4.2](screenshots/4.2.PNG)
 ![4.3](screenshots/4.3.PNG)
@@ -31,10 +30,9 @@ This is a support document for darideveloper projects, which require to send ema
 ![4.5](screenshots/4.5.PNG)
 ![4.6](screenshots/4.6.PNG)
 
-5. Go to App Passwords page
+5. Search and select 'App passwords'
 
 ![5](screenshots/5.PNG)
-![5.1](screenshots/5.1.PNG)
 
 6. Select "mail" app
 
